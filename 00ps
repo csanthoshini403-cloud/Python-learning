@@ -1,0 +1,59 @@
+# class car:
+#     def __init__(self,model,year,color,for_sale):
+#         self.model=  model 
+#         self.year=  year 
+#         self.color = color 
+#         self.for_sale = for_sale
+# car1=car("mustang","1969","blue","false")
+# car2=car("thar","2000","black","true")
+# print(car1.color)
+# print(car2.model)        
+
+# class car:
+#     def __init__(self,model,year,color,for_sale):
+#         self.for_sale = for_sale
+#     def drive(self):
+#         print(f"you are driving {self.model}")    
+#     def stop(self): 
+#         print(f"you are stopping{self.model}")
+#     def describe(self):
+#         print(f"your car is{self.model}{self.year}the colour is{self. color}amd it's sale{self.for_sale}")      
+# car1=car("mustang","1969","blue","false")
+# car2=car("thar","2000","black","true")
+
+# car1.drive()
+# car2.stop()
+# car1.describe()
+# car2.describe()  
+
+# class student:
+#     def __init__(self,name,roll_no,age):
+#         self.name = name
+#         self.roll_no = roll_no
+#         self.age = age
+#     def read(self):
+#         print(f"The name is {self.name} reading the book")
+#     def play(self):
+#         print(f"The roll_no is {self.roll_no} who is playing the ball")
+#     def data(self):
+#         print(f"The name is {self.name},roll_no {self.roll_no} and age {self.age} ")
+# student1=student("Regina","4106","18")
+# student2=student("Ram","4108","18")
+# student3=student("Regina","4103","19")
+# student4=student("Luna","4101","18")
+# student5=student("sam","4100","18")
+# student1.read()
+# student1.play()
+# student1.data()
+# student2.read()  
+# student2.play()
+# student2.data()
+# student3.read()
+# student3.play()
+# student3.data()
+# student4.read()
+# student4.play()
+# student4.data()
+# student5.read()
+# student5.play()
+# student5.data()
